@@ -35,7 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-# CONFIGS PLACEHOLDER
+
 
 - Thanks for adding an issue.
 
