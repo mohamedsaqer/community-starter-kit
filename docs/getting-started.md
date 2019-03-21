@@ -35,4 +35,13 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+# CONFIGS PLACEHOLDER
+
+Welcome my users first i'll mentione the requirments:-
+
+-- jhdfjh
+-- ksnkjsdfvnk
+-- kvfdvklblkmndf
+
+To run:-
+php artisan serve
