@@ -35,13 +35,16 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+# CONFIGS PLACEHOLDER
 
+- Thanks for adding an issue.
+
+- Thanks for adding a pull request to my repository.
 
 - Welcome to our repository! Thanks for adding an issue, if you are reporting a bug or a feature request, please make sure to assign a label to this issue.
 
 - Thank you for submitting a pull request to our repository. If this change is based on an existing issue, please reference that issue in the pull request comment using Closes #x where X is the issue number.
 
-- Please if you found a bug write it in the issues
+- Please if you found a bug write it in the issues.
 
-- if you want countribute reach me from this mail
+- if you want countribute reach me from this mail.
